@@ -1,4 +1,6 @@
 Django App - Gestión de Cursos
+
+
 Esta aplicación en Django permite gestionar cursos mediante la búsqueda de cursos por camada y la creación de nuevos cursos a través de un formulario.
 
 Funcionalidades
